@@ -1,2 +1,2 @@
-# 40-10-Keyboard
+# The GarlicBoard
 Custom Mechanical Keyboard
