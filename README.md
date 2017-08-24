@@ -4,11 +4,14 @@ Tom "stiligFox" Meyer
 
 (c) tommeyer 2017
 
+If you have any questions, please don't hesitate to message me on Reddit at /u/stiligFox
+
 * PCB v1.0_20170531
 * Firmware v0.3 beta
 * ReadMe v1.0_20170824
   * Need to:
   * List pins on Teensy for LEDs
+  * Upload pics of light guides
   * Upload Files 
 
 The KiCAD Libraries are (c) their original authors, and I greatly thank them for their invaluable assistance in designing this board!
@@ -48,6 +51,9 @@ Please be sure to read everything here before beginning! You may have a better w
   
 ## Case and Plate Files
 * The plate files that I designed can be downloaded in the GarlicBoardCaseFiles.zip. They are my current design for a very slim sandwhich board that leaves little margin for error; this is just a sample design and probably not ideal.
+* GarlicBoardCase.zip includes all files in both SVG and PDF formats.
+* GarlicBoardPlate.zip includes just the plate file in SVG and PDF formats.
+* GarlicBoardLightGuides.zip inlcudes just the light guides in SVG and PDF formats. Not that the rectangles are not light guides, but extra filler pieces. Only 4 light guides are needed, but cutting 8 is advised as they are small and easy to lose.
 * You can use these two sites for your plate design:
   * http://www.keyboard-layout-editor.com/#/gists/deefedea4f1e6f569e215b70d19be315
   * http://builder.swillkb.com
