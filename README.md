@@ -15,7 +15,7 @@ The Funkydori font is (c) Laura Worthington and may not be reused without liscen
 
 # Instructions
 Please be sure to read everything here before beginning! You may have a better way of doing things than the way I did.
-# Assembling the PCB
+## Assembling the PCB
 * Teensy
 Please view this gallery of images:
 LINK
@@ -43,7 +43,7 @@ Diodes are soldered onto the board with the | directional line pointing to the l
   * Included are orange LEDs. The | line points to the north on the top three LEDs, and it points to the south on the bottom LED.
    * Image:
   
-# Case Files
+## Case and Plate Files
 * The plate files that I designed can be downloaded in the GarlicBoardCaseFiles.zip. They are my current design for a very slim sandwhich board that leaves little margin for error; this is just a sample design and probably not ideal.
 * You can use these two sites for your plate design:
   * http://www.keyboard-layout-editor.com/#/gists/deefedea4f1e6f569e215b70d19be315
@@ -56,5 +56,5 @@ Diodes are soldered onto the board with the | directional line pointing to the l
     * It may help to use something such as rubber cement to hld the light channels into place.
   * 
   
-# Firmware
+## Firmware
 * The firmware is currently still in beta. It is being
