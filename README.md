@@ -7,9 +7,9 @@ Tom "stiligFox" Meyer
 * PCB v1.0_20170531
 * Firmware v0.3 beta
 * ReadMe v1.0_20170824
- * Need to:
- * List pins on Teensy for LEDs
- * Upload Files 
+  * Need to:
+  * List pins on Teensy for LEDs
+  * Upload Files 
 
 The KiCAD Libraries are (c) their original authors, and I greatly thank them for their invaluable assistance in designing this board!
 
@@ -53,7 +53,7 @@ Please be sure to read everything here before beginning! You may have a better w
   * http://builder.swillkb.com
 * The plate SVG in the  however, is built off of the layer from the actual kiCAD design files; it is what I used when I had my plate cut. If you use the swillkb.com tool, I recommend printing it out on paper before hand to make sure that all of the holes line up.
 * OTHER NOTES:
-  * The PCB needs to have four 2mm x 2mm holes centered over the LEDs.
+  * The plate needs to have four 2mm x 2mm holes centered over the LEDs.
   * The LightChannel files are designed to stradle over the LEDs in an upside down position and insert into the plate as seen here.
     * Image:
     * It may help to use something such as rubber cement to hld the light channels into place.
