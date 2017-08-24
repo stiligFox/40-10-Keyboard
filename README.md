@@ -7,6 +7,9 @@ Tom "stiligFox" Meyer
 * PCB v1.0_20170531
 * Firmware v0.3 beta
 * ReadMe v1.0_20170824
+ * Need to:
+ * List pins on Teensy for LEDs
+ * Upload Files 
 
 The KiCAD Libraries are (c) their original authors, and I greatly thank them for their invaluable assistance in designing this board!
 
@@ -37,6 +40,7 @@ Please be sure to read everything here before beginning! You may have a better w
   * Resistors are for the 4 LEDs; their positions are marked by "R" on the front side of the PCB.
   * The orientation of the resistors does not matter.
   * See this video for the varying levels of brightness; the dimmest is a 1500ohm resistor, the brightest is a 150ohm. The ones in between are the varying levels included with the kit.
+  * Video detailing brightness levels: https://youtu.be/k0F9aSuZe0w
   
 * LEDs
   * Included are orange LEDs. The | line points to the north on the top three LEDs, and it points to the south on the bottom LED.
