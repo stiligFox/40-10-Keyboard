@@ -18,7 +18,7 @@ Please be sure to read everything here before beginning! You may have a better w
 ## Assembling the PCB
 * Teensy
   * Please view this gallery of images:
-  * Images: LINK
+  * Images: http://imgur.com/a/BRcWN
   * Please note, this is how I did it; you may find an easier way. The main point is to keep the Teensy as flush with the PCB as possible. There is no circuitry under the Teensy to worry about shorting; however, take care not to damage the silkscreen layer as there is insulation copper underneath.
   1) Break up your headers into chunks of 2.
   2) Align them through the back of the Teensy, long end first, organized as shown. It helps to tape the Teensy and pins down at this time.
@@ -32,7 +32,7 @@ Please be sure to read everything here before beginning! You may have a better w
 * Diodes
   * Diodes are soldered onto the board with the | directional line pointing to the left (Towards the numpad, see image). The text "T4" should also be right side up.
   * _IMPORTANT NOTE:_ The two spacebar diodes do not follow this rule; they are upside down.
-  * Image: 
+ * Image: http://imgur.com/fNPTitI
 
 * Resistors
   * Resistors are for the 4 LEDs; their positions are marked by "R" on the front side of the PCB.
@@ -41,7 +41,7 @@ Please be sure to read everything here before beginning! You may have a better w
   
 * LEDs
   * Included are orange LEDs. The | line points to the north on the top three LEDs, and it points to the south on the bottom LED.
-   * Image:
+   * Image: http://imgur.com/vHIfGvP
   
 ## Case and Plate Files
 * The plate files that I designed can be downloaded in the GarlicBoardCaseFiles.zip. They are my current design for a very slim sandwhich board that leaves little margin for error; this is just a sample design and probably not ideal.
@@ -58,10 +58,11 @@ Please be sure to read everything here before beginning! You may have a better w
   
 ## Firmware
 * The firmware is currently still in beta. It is being created using kbfirmware.com; everything is functioning at this time _except_ for the LEDs. Unfortunately I do not have the know how to implement these. See layout below for the current layout.
+* You can upload the .json file to kbfirmware.com and it will load everything into its proper place for editing.
 
 ## Layout
 * See image for current layout:
-  * Image:
+  * Image: http://i.imgur.com/CS0u64L.png
 * Notes:
   * Currently FN1 + Enter = ' and FN1 + Shift + Enter = "
     * This may not be ideal as during the adjustment process, the Enter key can be hit inadvertently.
