@@ -50,6 +50,7 @@ Please be sure to read everything here before beginning! You may have a better w
   * GarlicBoardCase.zip includes all files in both SVG and PDF formats.
   * GarlicBoardPlate.zip includes just the plate file in SVG and PDF formats.
   * GarlicBoardLightGuides.zip inlcudes just the light guides in SVG and PDF formats. Not that the rectangles are not light guides, but extra filler pieces. Only 4 light guides are needed, but cutting 8 is advised as they are small and easy to lose.
+  * _Please note:_ The dimension in the files names (in mm) is the thickness needed for that piece in the file.
 * You can use these two sites for your plate design:
   * http://www.keyboard-layout-editor.com/#/gists/deefedea4f1e6f569e215b70d19be315
   * http://builder.swillkb.com
