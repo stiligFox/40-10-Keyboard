@@ -59,7 +59,7 @@ Please be sure to read everything here before beginning! You may have a better w
 * The plate SVG in the  however, is built off of the layer from the actual kiCAD design files; it is what I used when I had my plate cut. If you use the swillkb.com tool, I recommend printing it out on paper before hand to make sure that all of the holes line up.
 * OTHER NOTES:
   * The plate needs to have four 2mm x 2mm holes centered over the LEDs.
-  * The LightChannel files are designed to stradle over the LEDs in an upside down position and insert into the plate as seen here.
+  * The LightChannel files are designed to stradle over the LEDs in an upside down "Y" position and insert into the plate as seen here.
     * Image:
     * It may help to use something such as rubber cement to hld the light channels into place.
   * 
