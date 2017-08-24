@@ -7,11 +7,10 @@ Tom "stiligFox" Meyer
 If you have any questions, please don't hesitate to message me on Reddit at /u/stiligFox
 
 * PCB v1.0_20170531
-* Firmware v0.3 beta
+* Firmware v1.0 beta
 * ReadMe v1.0_20170824
   * Need to:
   * List pins on Teensy for LEDs
-  * Upload pics of light guides
 
 The KiCAD Libraries are (c) their original authors, and I greatly thank them for their invaluable assistance in designing this board!
 
@@ -36,7 +35,7 @@ Please be sure to read everything here before beginning! You may have a better w
 * Diodes
   * Diodes are soldered onto the board with the | directional line pointing to the left (Towards the numpad, see image). The text "T4" should also be right side up.
   * _IMPORTANT NOTE:_ The two spacebar diodes do not follow this rule; they are upside down.
- * Image: http://imgur.com/fNPTitI
+  * Image: http://imgur.com/fNPTitI
 
 * Resistors
   * Resistors are for the 4 LEDs; their positions are marked by "R" on the front side of the PCB.
@@ -62,11 +61,19 @@ Please be sure to read everything here before beginning! You may have a better w
   * The plate needs to have four 2mm x 2mm holes centered over the LEDs.
   * The LightChannel files are designed to stradle over the LEDs in an upside down "Y" position and insert into the plate as seen here.
     * Image: http://imgur.com/a/Dofb9
-    * It may help to use something such as rubber cement to hld the light channels into place.
+    * It may help to use something such as rubber cement to hold the light channels into place.
   
 ## Firmware
+* Current version is v1.0 beta.
+* The firmware is located in GarlicBoardFirmware1.0.zip. It contains the source files, .json for kbfirmware.com, and the .hex file for flashing to your Teensy.
 * The firmware is currently still in beta. It is being created using kbfirmware.com; everything is functioning at this time _except_ for the LEDs. Unfortunately I do not have the know how to implement these. See layout below for the current layout.
 * You can upload the .json file to kbfirmware.com and it will load everything into its proper place for editing.
+* PinOut for the Columns, Rows and LEDs:
+  * Image: http://imgur.com/gSwu5Ja
+  * Top LED is Pin 31 / PE6
+  * Second LED is Pin 10 / PD3
+  * Third LED is Pin 11 / PC6
+  * Bottom LED is Pin 12 / PC7
 
 ## Layout
 * See image for current layout:
