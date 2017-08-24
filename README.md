@@ -9,8 +9,6 @@ If you have any questions, please don't hesitate to message me on Reddit at /u/s
 * PCB v1.0_20170531
 * Firmware v1.0 beta
 * ReadMe v1.0_20170824
-  * Need to:
-  * List pins on Teensy for LEDs
 
 The KiCAD Libraries are (c) their original authors, and I greatly thank them for their invaluable assistance in designing this board!
 
