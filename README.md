@@ -4,10 +4,9 @@ Tom "stiligFox" Meyer
 
 (c) tommeyer 2017
 
-PCB v1.0_20170531
-ReadMe v0.1_20170824
-
-First write up
+* PCB v1.0_20170531
+* Firmware v0.3 beta
+* ReadMe v1.0_20170824
 
 The KiCAD Libraries are (c) their original authors, and I greatly thank them for their invaluable assistance in designing this board!
 
