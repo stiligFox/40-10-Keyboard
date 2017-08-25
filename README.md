@@ -54,8 +54,8 @@ Please be sure to read everything here before beginning! You may have a better w
 * You can use these two sites for your plate design:
   * http://www.keyboard-layout-editor.com/#/gists/deefedea4f1e6f569e215b70d19be315
   * http://builder.swillkb.com
-* The plate SVG in the  however, is built off of the layer from the actual kiCAD design files; it is what I used when I had my plate cut. 
-* _IMPORTANT NOTE:_ If you use the swillkb.com tool, I recommend printing it out on paper before hand to make sure that all of the holes line up. The concern is that the space between the main board and the numpad may be off in the KLE layout.
+* The plate SVG in the zip folders are however, built off of the layer from the actual kiCAD design files; it is what I used when I had my plate cut. 
+* _IMPORTANT NOTE:_ If you use the swillkb.com tool, I recommend printing it out on paper before hand to make sure that all of the holes line up. The concern is that the space between the main board and the numpad may be off in the KLE layout. While I've double checked the KLE layout dimensions for accuracy, nothing beats the paper test! 
 * OTHER NOTES:
   * The plate needs to have four 2mm x 2mm holes centered over the LEDs.
   * The LightChannel files are designed to stradle over the LEDs in an upside down "Y" position and insert into the plate as seen here.
